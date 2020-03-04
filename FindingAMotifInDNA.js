@@ -1,4 +1,5 @@
 
+//  http://rosalind.info/problems/subs/
 const dna1="GATATATGCATATACTT"
 const dna2="ATAT"
  for (let i=0; i<dna1.length - dna2.length; i++){
